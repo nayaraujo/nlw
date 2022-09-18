@@ -35,6 +35,7 @@ header div {
 
   animation: fromTop 0.3s 0.1s backwards;
 }
+
 header div:hover {
   transform: scale(1.1);
 }
